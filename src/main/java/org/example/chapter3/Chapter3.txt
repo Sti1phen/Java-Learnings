@@ -1,0 +1,27 @@
+//Solutions to Exercises
+Question 3.5
+/**The keyword new is used to create a new object (instance) of a class. When it is used, a new object of a class is created.
+e.g Scanner input = new Scanner (System.in); creates a new object input of the class scanner that can accept data from the user via the keyboard
+*/
+
+Question 3.6
+/**Not possible since the class already has a constructor with a parameter
+*/
+
+Question 3.7
+/**The purpose of an instance variable is to carry the attributes of a class throughout the object of the class lifetime
+*/lifetime
+Question 3.8
+/**Classes System and String belong to a package class - java.lang which is automatically imported for use in any java app
+*/
+Question 3.9
+/**One would have to declare its object with the full qualified class name
+	java.util.Scanner input = new java.util.Scanner(System.in);
+*/
+Question 3.10
+/**
+The disadvantages of creating a class that has no set and get metjods for an instance variable is that the instance variable is private, and is hidden in the class to any other method or class.The set and get methods are the methods to use to interact i.e set the private instancevariable and also get its value
+*/
+Question 3.11
+
+
